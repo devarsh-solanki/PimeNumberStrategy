@@ -1,0 +1,60 @@
+@charset "ISO-8859-1";
+
+.navbar{
+	background: #410fa8;
+}
+
+.btn-col{
+	background:#1d11a6;
+	color: white;
+}
+
+.btn-col:hover {
+	background: rgb(0, 0, 128);
+	color: white;
+	outline: none;
+}
+
+.btn-del{
+	color: white;
+	outline: none;
+	background: #318d46;
+}
+
+.btn-del:hover{
+	color: white;
+	outline: none;
+	background: #277037;
+}
+
+
+.btn-rel{
+	color: white;
+	outline: none;
+	background: #0f0f0f;
+}
+
+.btn-rel:hover{
+	color: white;
+	outline: none;
+	background: black;
+}
+
+.note-img{
+	width: 100%;
+	max-height: 500px;
+}
+
+.mega-img{
+	max-width: 150px;
+	
+}
+
+.prime-img{
+	height: 120px;
+	width: 450px;
+}
+
+.dropdown .btn-pow{
+	width: 100%;
+} 
