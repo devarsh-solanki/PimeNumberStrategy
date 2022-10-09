@@ -1,2 +1,2 @@
 # PimeNumberStrategy
-This is written in java.
+It is written in java.
